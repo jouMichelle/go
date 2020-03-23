@@ -25,5 +25,4 @@
 out
 gen
 **/.idea
-pkg/
-**/pkg/
+
